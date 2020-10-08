@@ -1,0 +1,5 @@
+export const SET_QUESTION_NUMBER: string = "SET_QUESTION_NUMBER"
+export const SET_ANSWERS: string = "SET_ANSWERS"
+export const GET_QUESTIONS: string = "GET_QUESTIONS"
+export const GET_QUESTIONS_FINISHED: string = "GET_QUESTIONS_FINISHED"
+export const GET_CORRECT_ANSWERS: string | any = "GET_CORRECT_ANSWERS"
